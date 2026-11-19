@@ -1,3 +1,15 @@
+> **This is Open Meridian's fork of [Fluxnova](https://github.com/finos/fluxnova-bpm-platform)**, showing Fluxnova working with
+> [Open Meridian](https://open-meridian.dev). Our changes are on this branch (`open-meridian`); the `main`
+> branch tracks upstream unchanged.
+>
+> Fluxnova workflows taking Open Meridian's trades through confirmation and settlement, each human step an approval.
+>
+> **Status:** the integration isn't built yet. When it is, this section says how to run it locally against an Open
+> Meridian deployment. It isn't listed in Open Meridian's plugin registry.
+>
+> Fluxnova is licensed under Apache-2.0; this fork keeps that licence and its notices. It is not affiliated with or
+> endorsed by FINOS or the Linux Foundation.
+
 # Fluxnova - The open source BPMN platform
 [![FINOS - Incubating](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-incubating.svg)](https://community.finos.org/docs/governance/Software-Projects/stages/incubating)
 [![Build CI](https://github.com/finos/fluxnova-bpm-platform/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/finos/fluxnova-bpm-platform/actions/workflows/build.yaml?query=branch%3Amain)
